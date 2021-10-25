@@ -1,0 +1,5 @@
+C:\Users\cebberhart\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.AssemblyReference.cache
+C:\Users\cebberhart\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cebberhart\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\cebberhart\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfo.cs
+C:\Users\cebberhart\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.CoreCompileInputs.cache
